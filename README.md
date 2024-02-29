@@ -19,9 +19,9 @@ mkdir my-dev-environment
 cd my-dev-environment
 
 # 各リポジトリをクローン
-git clone [https://github.com/niinomik-nodo/Server-Docker-Dev.git]
-git clone [https://github.com/niinomik-nodo/Server-Front.git]
-git clone [https://github.com/niinomik-nodo/Server-API.git]
+git clone [https://github.com/eastclouddev/Server-Docker-Dev.git]
+git clone [https://github.com/eastclouddev/Server-Front.git]
+git clone [https://github.com/eastclouddev/Server-API.git]
 
 # 開発環境のディレクトリ構造イメージ
 my-dev-environment
