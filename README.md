@@ -1,5 +1,17 @@
 # 開発環境設定手順
 
+## ステップ 0: 必要なツールの準備
+
+本開発環境はフロントエンドにNuxt、バックエンドにFastAPIを使用するため、以下のツールは予めインストールしておいてください。
+
+### Nuxt
+
+- Node.js：（[https://nodejs.org/en/download](https://nodejs.org/en/download)）
+
+### FastAPI
+
+- Python：（[https://www.python.org/downloads/](https://www.python.org/downloads/)）
+
 ## ステップ 1: 必要なリポジトリの取得
 
 本リポジトリはDockerfileの開発および管理のためのリポジトリです。実際に環境を起動するためには、以下のリポジトリを取得する必要があります。
