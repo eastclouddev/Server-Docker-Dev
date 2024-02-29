@@ -77,4 +77,4 @@ docker-compose -f ./Server-Docker-Dev/lmsc_local/docker-compose.yaml up -d
 ### Nuxt："https://localhost:3000"
 ![image](https://github.com/eastclouddev/Server-Docker-Dev/assets/161721768/c53b234c-1ac9-4423-a3bd-02b844d3696e)
 
-※ id=1 name='lmsc' は Server-Docker-Dev/lmsc_local/lmsc_database/init_db/init.sql(mySQLのDB)で設定したデータを出力しています
+※ lmsc - hoge@work-ready.jp は Server-Docker-Dev/lmsc_local/lmsc_database/init_db/init.sql(mySQLのDB)で設定したデータを出力しています
