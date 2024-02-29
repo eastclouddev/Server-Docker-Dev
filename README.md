@@ -69,12 +69,12 @@ docker-compose -f ./Server-Docker-Dev/lmsc_local/docker-compose.yaml up -d
 コマンド実行後、以下の画像のようになっていれば問題ありません。
 
 ### ターミナル
-![image](https://github.com/niinomik-nodo/Server-Docker-Dev/assets/111042246/aa0f52cc-f97a-44ff-9d4e-f81f4541416b)
+![image](https://github.com/eastclouddev/Server-Docker-Dev/assets/161721768/0eed5f5b-4435-49a1-a790-5cb52ce25f1f)
 
-### FastApi: "https://localhost:443/tests"
-![image](https://github.com/niinomik-nodo/Server-Docker-Dev/assets/111042246/4e13d680-a275-42ef-9891-3e435439b62e)
+### FastApi: "https://localhost:443/users"
+![image](https://github.com/eastclouddev/Server-Docker-Dev/assets/161721768/3e28df5e-0414-4f6c-8837-4d68433a8f67)
 
-### React："https://localhost:3000"
-![image](https://github.com/niinomik-nodo/Server-Docker-Dev/assets/111042246/7c1329b5-bb31-409f-a04e-8e69ce8f3e6a)
+### Nuxt："https://localhost:3000"
+![image](https://github.com/eastclouddev/Server-Docker-Dev/assets/161721768/c53b234c-1ac9-4423-a3bd-02b844d3696e)
 
 ※ id=1 name='lmsc' は Server-Docker-Dev/lmsc_local/lmsc_database/init_db/init.sql(mySQLのDB)で設定したデータを出力しています
